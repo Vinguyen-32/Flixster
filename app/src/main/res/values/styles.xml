@@ -18,13 +18,13 @@
         <item name="android:color">@color/red</item>
 
         <!-- Support library compatibility -->
-        <item name="background">@color/red</item>
+        <item name="background">@color/purple_200</item>
         <item name="titleTextStyle">@style/MyActionBar.TitleTextStyle</item>
     </style>
 
     <style name="MyActionBar.TitleTextStyle"
         parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
-        <item name="android:textColor">@color/red</item>
+        <item name="android:textColor">@color/purple_700</item>
     </style>
 
     <style name="MyActionBarTabText" parent="@style/Widget.AppCompat.ActionBar.TabText">

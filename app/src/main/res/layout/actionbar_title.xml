@@ -9,7 +9,9 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="Flixster"
+        android:textStyle="bold"
         android:textColor="#ffffff"
+        android:fontFamily="cursive"
         android:id="@+id/mytext"
-        android:textSize="18dp" />
+        android:textSize="40dp" />
 </LinearLayout>
